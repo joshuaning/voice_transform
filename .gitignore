@@ -2,3 +2,6 @@
 **/.ipynb_checkpoints
 *.asv
 *.wav
+*.png
+*.csv
+*.jpeg
